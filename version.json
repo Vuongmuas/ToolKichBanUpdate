@@ -1,5 +1,6 @@
 {
   "version": "3.6",
   "url": "https://github.com/Vuongmuas/ToolKichBanUpdate/releases/download/v3.6/Toolkichban.exe",
-  "notes": "Cập nhật"
+  "notes": "Cập nhật",
+  "force_update": true
 }
